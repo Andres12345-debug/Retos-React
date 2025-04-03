@@ -1,0 +1,106 @@
+🔹 Conceptos Básicos (Variables, Tipos, Funciones)
+
+        Área de un Círculo: Escribe una función que calcule el área de un círculo dado su radio.
+
+        Par o Impar: Crea una función que determine si un número es par o impar.
+
+        Conversión de Temperatura: Convierte grados Celsius a Fahrenheit.
+
+        Longitud de una Cadena: Crea una función que reciba un string y devuelva su longitud.
+
+        Concatena Nombres: Une dos strings (nombre y apellido) y devuelve el nombre completo.
+
+        Tipo de Dato: Escribe una función que reciba un valor y devuelva su tipo (typeof).
+
+        Número Mayor: Escribe una función que reciba dos números y devuelva el mayor.
+
+        Tabla de Multiplicar: Dado un número, imprime su tabla de multiplicar del 1 al 10.
+
+        Números Aleatorios: Genera un número aleatorio entre 1 y 100.
+
+        Palíndromo: Crea una función que determine si una palabra es un palíndromo.
+
+🔹 Estructuras de Control (Bucles, Condiciones)
+Suma de los Primeros N Números: Calcula la suma de los primeros n números naturales.
+
+Factorial de un Número: Escribe una función que calcule el factorial de un número.
+
+Serie Fibonacci: Genera los primeros n números de la serie Fibonacci.
+
+Números Primos: Crea una función que determine si un número es primo.
+
+Contador de Vocales: Cuenta cuántas vocales tiene una cadena de texto.
+
+Invertir una Cadena: Escribe una función que invierta una cadena.
+
+Suma de Números Pares: Suma todos los números pares hasta un número dado.
+
+Suma de Números Impares: Suma todos los números impares hasta un número dado.
+
+Número Más Grande en un Array: Encuentra el número mayor en un array.
+
+Contar Ocurrencias: Cuenta cuántas veces aparece una letra en un string.
+
+🔹 Arrays y Objetos
+Ordenar un Array: Ordena un array de números de menor a mayor.
+
+Eliminar Duplicados: Dado un array, elimina los elementos duplicados.
+
+Filtrar Números Pares: Devuelve solo los números pares de un array.
+
+Objeto Persona: Crea un objeto Persona con nombre, edad y una función que lo presente.
+
+Contar Propiedades de un Objeto: Dado un objeto, cuenta cuántas propiedades tiene.
+
+Comprobar Propiedad en Objeto: Verifica si un objeto tiene una propiedad específica.
+
+Suma de Valores en un Array: Suma todos los elementos de un array de números.
+
+Convertir un Array en un Objeto: Convierte un array de pares [clave, valor] en un objeto.
+
+Invertir un Array: Escribe una función que invierta los elementos de un array.
+
+Buscar un Elemento en un Array: Escribe una función que busque un valor dentro de un array.
+
+🔹 Funciones y Programación Funcional
+Mapear un Array: Crea una función que multiplique por 2 cada número en un array.
+
+Reducir un Array: Usa .reduce() para sumar los elementos de un array.
+
+Filtrar Palabras Largas: Dado un array de palabras, devuelve las que tienen más de 5 letras.
+
+Convertir un String en Array: Convierte un string en un array de palabras.
+
+Reemplazar Caracteres: Escribe una función que reemplace todas las ‘a’ por ‘@’.
+
+Combinación de Arrays: Une dos arrays en uno solo sin duplicados.
+
+Extraer Nombres de Objetos: Dado un array de objetos {nombre: "Juan"}, extrae solo los nombres.
+
+Comprobación de Correo Electrónico: Verifica si un string tiene formato de email válido.
+
+Número de Ocurrencias en un Array: Cuenta cuántas veces aparece un número en un array.
+
+Eliminar Elementos Específicos de un Array: Escribe una función que elimine un elemento dado de un array.
+
+🔹 Manipulación de Fechas
+Fecha y Hora Actual: Muestra la fecha y hora actual en formato DD/MM/YYYY HH:MM:SS.
+
+Días Hasta Fin de Año: Calcula cuántos días faltan para el 31 de diciembre.
+
+Día de la Semana: Dado un número (1-7), devuelve el día de la semana correspondiente.
+
+Edad a partir de Fecha de Nacimiento: Calcula la edad dada una fecha de nacimiento.
+
+Agregar Días a una Fecha: Dada una fecha, suma n días y devuelve la nueva fecha.
+
+🔹 Extras (Desafíos Divertidos)
+Generador de Contraseñas: Crea una función que genere contraseñas aleatorias de 8 caracteres.
+
+Convertir Números a Romanos: Convierte un número en su equivalente en números romanos.
+
+Adivina el Número: Crea un juego donde el usuario intente adivinar un número aleatorio.
+
+Detectar Palabras en un Texto: Busca una palabra en un texto y devuelve su posición.
+
+Juego de Piedra, Papel o Tijeras: Implementa el clásico juego contra la computadora.

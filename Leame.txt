@@ -58,7 +58,7 @@ npx create-react-app retos_programacion --template typescript
 
     import 'bootstrap/dist/css/bootstrap.min.css'
     import '@fortawesome/fontawesome-free/css/all.min.css'
-    import 'react-toastify/dist/react-toastify.css'
+    import 'react-toastify/ReactToastify.css';
     import 'bootstrap/dist/js/bootstrap.bundle.js'
 
     import 'scss/volt.scss';
@@ -69,12 +69,11 @@ npx create-react-app retos_programacion --template typescript
 
     import 'bootstrap/dist/css/bootstrap.min.css'
     import '@fortawesome/fontawesome-free/css/all.min.css'
-    import 'react-toastify/dist/ReactToastify.css'
+    import 'react-toastify/ReactToastify.css';
     import 'bootstrap/dist/js/bootstrap.bundle.js'
     import './scss/volt.scss';
     import 'react-datepicker/dist/react-datepicker.module.css'
     import 'react-datepicker/dist/react-datepicker.css';
-
     import "react-datepicker/dist/react-datepicker.css"; 
 
 
@@ -92,6 +91,28 @@ npx create-react-app retos_programacion --template typescript
 
 npm start
 #******************************#
+
+ESTRUCTURA BASICA
+
+        📂 ejercicios-ts
+ ├── 📂 src
+ │   ├── 📂 components
+ │   │   ├── 📂 basics  (Ejercicios básicos)
+ │   │   │   ├── ParImpar.tsx
+ │   │   │   ├── AreaCirculo.tsx
+ │   │   │   ├── Factorial.tsx
+ │   │   │   ├── ...
+ │   │   ├── 📂 arrays (Ejercicios con arrays)
+ │   │   ├── 📂 objetos (Ejercicios con objetos)
+ │   │   ├── 📂 fechas (Ejercicios con fechas)
+ │   │   ├── 📂 juegos (Ejercicios tipo juego)
+ │   ├── 📂 pages
+ │   │   ├── Home.tsx
+ │   │   ├── Ejercicios.tsx
+ │   ├── 📂 utils (Funciones reutilizables)
+ │   ├── App.tsx
+ │   ├── main.tsx
+
 #******************************#
 #******************************#
 #******************************#
