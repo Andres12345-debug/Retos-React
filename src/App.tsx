@@ -7,10 +7,8 @@ import { Ejercicios } from './app/pages/Ejercicios';
 function App() {
   return (
     <div className='jumbo'>
-      <div>
       <Bienvenida></Bienvenida>
 
-      </div>
       
       <Ejercicios></Ejercicios>
 
