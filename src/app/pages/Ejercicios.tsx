@@ -8,8 +8,7 @@ export const Ejercicios = () => {
 
   return (
     <div>
-      <h2>Lista de Ejercicios</h2>
-      <div className="container py-5">
+      <div className="py-5">
         <AreaCirculo />
       </div>
       <div className="container py-5">
